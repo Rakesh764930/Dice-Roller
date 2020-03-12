@@ -1,0 +1,30 @@
+*
+{
+  text-align: center;
+}
+.image-1 {
+  display: inline-block;
+
+}
+.image-2{
+
+  display: inline-block;
+  padding-left: 10%;
+}
+.button1{
+  display: inline-block;
+
+}
+#pp1{
+  text-align: left;
+  border: 1px solid black;
+}
+.button2{
+  display: inline-block;
+  padding-left: 15%;
+}
+.buttons{
+  background-color:green;
+  color: white;
+  font-size: 25px;
+}
